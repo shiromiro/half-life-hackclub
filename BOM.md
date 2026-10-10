@@ -18,7 +18,7 @@
 | [Resistor 10k](https://fibel.no/product/motstand-resistor/) | https://fibel.no/product/motstand-resistor/ | 1 | $0.66 | $0.66 | [Fibel](https://fibel.no/product/motstand-resistor/) |
 | [MPU6050](https://www.skolehuset.no/products/aksellerometersensor-mpu-6050) | Motion and gyro sensor | 1 | $9.94 | $9.94 | [Skolehuset](https://www.skolehuset.no/products/aksellerometersensor-mpu-6050) |
 | **Parts subtotal** | — | — | — | **$28.48** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.48** | — |
+| **Tax & shipping** | — | — | — | **$43.95** | — |
+| **Total** | — | — | — | **$72.43** | — |
 
-$1.52 left of the tier's funding.
+**$42.43 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
