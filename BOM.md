@@ -12,10 +12,9 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [DHT-11](https://fibel.no/product/dht11-temperatur-fuktighetssensor/) | Temperature and humidity sensor | 1 | $3.00 | $3.00 | [fibel](https://fibel.no/product/dht11-temperatur-fuktighetssensor/) |
 | [MPU6050](https://www.skolehuset.no/products/aksellerometersensor-mpu-6050) | Motion tracking and gyro sensor | 1 | $9.94 | $9.94 | [skolehuset](https://www.skolehuset.no/products/aksellerometersensor-mpu-6050) |
-| **Parts subtotal** | — | — | — | **$12.94** | — |
+| **Parts subtotal** | — | — | — | **$9.94** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$12.94** | — |
+| **Total** | — | — | — | **$9.94** | — |
 
-$17.06 left of the tier's funding.
+$20.06 left of the tier's funding.
