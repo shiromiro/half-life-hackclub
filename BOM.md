@@ -20,7 +20,7 @@
 | [Geo Linear Switch (Pre-lubed)](https://www.maxgaming.no/no/switchar/geo-linear-switch-pre-lubed) | Switches | 1 | $2.09 | $2.09 | [MaxGaming](https://www.maxgaming.no/no/switchar/geo-linear-switch-pre-lubed) |
 | [WS Standard Lineær Switch](https://www.maxgaming.no/no/switchar/ws-standard-linear-switch) | Switches (incase the others dont fit) | 1 | $0.31 | $0.31 | [MaxGaming](https://www.maxgaming.no/no/switchar/ws-standard-linear-switch) |
 | **Parts subtotal** | — | — | — | **$30.88** | — |
-| **Tax & shipping** | — | — | — | **$20.19** | — |
-| **Total** | — | — | — | **$51.07** | — |
+| **Tax & shipping** | — | — | — | **$20.32** | — |
+| **Total** | — | — | — | **$51.20** | — |
 
-**$21.07 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$21.20 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
